@@ -1,5 +1,5 @@
-import Game from "./game.js";
-import Counter from "./counter.js";
+import Game from "./game";
+import Counter from "./counter";
 
 const holeGame = document.querySelector(".hole-game");
 const dead = document.getElementById("dead");
